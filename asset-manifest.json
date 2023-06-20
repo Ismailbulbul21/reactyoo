@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/reactyoo/static/css/main.5d512d95.css",
+    "main.js": "/reactyoo/static/js/main.6752b5fd.js",
+    "static/media/360_F_571912904_2FymjuUT1mlvDmKjPfQV2AYxLuYFMxgO.jpg": "/reactyoo/static/media/360_F_571912904_2FymjuUT1mlvDmKjPfQV2AYxLuYFMxgO.8902ab80eed41a483771.jpg",
+    "index.html": "/reactyoo/index.html",
+    "main.5d512d95.css.map": "/reactyoo/static/css/main.5d512d95.css.map",
+    "main.6752b5fd.js.map": "/reactyoo/static/js/main.6752b5fd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d512d95.css",
+    "static/js/main.6752b5fd.js"
+  ]
+}
